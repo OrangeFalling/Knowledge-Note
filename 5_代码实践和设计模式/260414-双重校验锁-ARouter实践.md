@@ -1,5 +1,5 @@
 
-## ARouter 对象创建实践双重锁
+## ARouter 对象创建实践「双重校验锁」
 ```java
 private volatile static boolean hasInit = false;
 
