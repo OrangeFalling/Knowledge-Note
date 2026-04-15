@@ -1,45 +1,42 @@
-# 开源项目收藏
+# 开源项目索引
 
-> 优质开源项目索引 | 按分类整理
+> 优质开源项目收藏 | 按分类整理 | 点击跳转
 
 ## 🌐 网络通信与协议
 
-| 项目 | 简介 | 核心亮点 |索引 |
-|------|------|----------| ---- |
-| [Lighthouse](https://github.com/ivanempire/lighthouse) | 局域网设备发现库 | SSDP协议 + 状态驱动 + Kotlin Flow |[Lighthouse.md](260415-Lighthouse.md)|
-| [OkHttp](https://github.com/square/okhttp) | 高效HTTP客户端 | 连接池、拦截器、缓存 |-|
-| [Retrofit](https://github.com/square/retrofit) | 类型安全的HTTP客户端 | 动态代理 + 注解处理 |-|
+| 项目 | 简介 | 核心亮点 |
+|------|------|----------|
+| [Lighthouse](https://github.com/ivanempire/lighthouse) | 局域网设备发现库 | SSDP协议 + 状态驱动 + Kotlin Flow |
 
-## 🔧 网络与数据存储
+## 🔍 搜索与架构
 
-| 项目 | 简介 | 核心亮点 |索引 |
-|------|------|----------| ---- |
-| [Room](https://developer.android.com/training/data-storage/room) | SQLite ORM | 编译时检查、协程支持 |-|
+| 项目 | 简介 | 核心亮点 |
+|------|------|----------|
+| [AndroidSearchView](https://github.com/android/architecture-components-samples/tree/main/GithubBrowserSample) | 官方架构组件搜索示例 | RxJava防抖 + MVVM + 官方范本 |
 
-## 🎨 UI与交互
+## 📝 详细笔记
 
-| 项目 | 简介 | 核心亮点 |索引 |
-|------|------|----------| ---- |
-| [Coil](https://github.com/coil-kt/coil) | 图片加载库 | Kotlin协程、轻量级 |-|
-| [Compose](https://developer.android.com/jetpack/compose) | 声明式UI框架 | 响应式、Kotlin原生 |-|
+| 项目 | 笔记链接 |
+|------|----------|
+| Lighthouse | [[Lighthouse - 状态驱动的网络设备搜索](260415-Lighthouse.md)] |
+| AndroidSearchView | [[AndroidSearchView - 官方搜索示例](260415-AndroidSearchView.md)] |
 
-## ⚡ 性能与监控
+## 🏷️ 标签索引
 
-| 项目 | 简介 | 核心亮点 |索引 |
-|------|------|----------| ---- |
-| [LeakCanary](https://github.com/square/leakcanary) | 内存泄漏检测 | 自动检测、友好通知 |-|
-| [BlockCanary](https://github.com/markzhai/AndroidPerformanceMonitor) | 卡顿检测 | 非侵入式、UI卡顿定位 |-|
+| 标签 | 相关项目 |
+|------|----------|
+| #状态驱动 | Lighthouse、AndroidSearchView |
+| #防抖 | AndroidSearchView |
+| #协程 | Lighthouse |
+| #RxJava | AndroidSearchView |
+| #官方示例 | AndroidSearchView |
 
-## 💉 依赖注入与编译时
+## 📊 统计
 
-| 项目 | 简介 | 核心亮点 |索引 |
-|------|------|----------| ---- |
-| [Dagger Hilt](https://dagger.dev/hilt/) | 依赖注入框架 | 编译时生成、组件绑定 |-|
-| [ARouter](https://github.com/alibaba/ARouter) | 页面路由 | 模块解耦、拦截器 |-|
+| 分类 | 数量 |
+|------|------|
+| 网络通信与协议 | 1 |
+| 搜索与架构 | 1 |
+| **合计** | **2** |
 
-## 📱 项目完整案例
-
-| 项目 | 简介 | 可学习点 |索引 |
-|------|------|----------| ---- |
-| [Anytype](https://github.com/anyproto/anytype-kotlin) | 笔记应用 | 状态驱动搜索、MVVM、协程 |-|
-| [Now in Android](https://github.com/android/nowinandroid) | 官方示例 | 现代Android架构、Compose |-|
+> 最后更新：2026-04-15
