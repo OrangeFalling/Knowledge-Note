@@ -4,6 +4,21 @@
 
 > 快速查找 | 按模块分类 | 点击跳转
 
+## 🔍 快速检索（按关键词）
+
+| 关键词 | 相关笔记 |
+|--------|----------|
+| IPC / 跨进程 / Binder | startActivity到handleLaunchActivity完整链路 |
+| AMS / Activity启动 | startActivity到handleLaunchActivity完整链路 |
+| 内存 / OOM / GC / 内存抖动 | 循环操作注意事项 |
+| 单例 / volatile / 并发 | 双重锁校验单例 |
+| 上架 / GP / 审核 / AAB | GooglePlay上架流程 |
+| 注解 / 编译时 / APT | APT注解处理技术原理 |
+| 防抖 / IdleHandler / UI流畅 | 弹窗延迟实例化躲避动效 |
+| 双指针 / 算法优化 | 循环操作注意事项 |
+| 搜索 / debounce / switchMap | AndroidSearchView |
+| SSDP / 设备发现 / Flow | Lighthouse |
+
 ## 📁 0_核心原理
 
 | 笔记 | 关键词 | 日期 |
@@ -71,24 +86,6 @@
 | 笔记 | 关键词 | 日期 |
 |------|--------|------|
 | [问题列表](99_问题速记/260410-问题列表.md) | 问题列表 | 2026-04-14 |
-
----
-
-## 🔍 快速检索（按关键词）
-
-| 关键词 | 相关笔记 |
-|--------|----------|
-| IPC / 跨进程 / Binder | startActivity到handleLaunchActivity完整链路 |
-| AMS / Activity启动 | startActivity到handleLaunchActivity完整链路 |
-| View绘制 / performTraversals / Choreographer | Activity启动时View首次绘制源码深度解析 |
-| 内存 / OOM / GC / 内存抖动 | 循环操作注意事项 |
-| 单例 / volatile / 并发 | 双重锁校验单例 |
-| 上架 / GP / 审核 / AAB | GooglePlay上架流程 |
-| 注解 / 编译时 / APT | APT注解处理技术原理 |
-| 防抖 / IdleHandler / UI流畅 | 弹窗延迟实例化躲避动效 |
-| 双指针 / 算法优化 | 循环操作注意事项 |
-| 搜索 / debounce / switchMap | AndroidSearchView |
-| SSDP / 设备发现 / Flow | Lighthouse |
 
 ---
 
