@@ -12,4 +12,12 @@
 > [!NOTE] 从后端视角出发，用 Go 语言手写一遍 Agent 框架的关键原理
 > 本项目专为没有 LLM 背景但具备基础 Golang 经验的后端工程师设计。我们将跳过复杂的数学推导，优先从工程实现理解核心概念：你会看到每一步为什么这么设计、替代方案是什么、以及它们在真实系统里会遇到哪些坑。
 
-4、
+4、Deep Search Pro: https://github.com/waseens/deep-search-pro
+> [!NOTE] 主要内容
+> 不到 1000 行代码的 AI Agent 学习项目。它用最精简的方式展示了如何基于 LangChain 生态构建一个多智能体协作系统——一个"主智能体"像团队负责人一样调度三个"子智能体"（网络搜索、数据库查询、知识库检索）来协同完成复杂任务。
+
+5、Agent Craft: https://github.com/Annyfee/agent-craft
+> [!NOTE] 主要内容
+> 系统性开源教学项目，手把手带你用 Python 构建可运行的 AI Agent，涵盖 Prompt、LLM、LangChain、RAG、LangGraph、MCP 到部署发布全流程。
+
+6、[Hermes Agent](https://github.com/NousResearch/hermes-agent) 是 Nous Research 开源的 AI Agent 框架： https://github.com/alchaincyf/hermes-agent-orange-book/blob/main/README_zh.md
