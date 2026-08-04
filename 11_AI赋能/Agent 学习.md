@@ -21,3 +21,16 @@
 > 系统性开源教学项目，手把手带你用 Python 构建可运行的 AI Agent，涵盖 Prompt、LLM、LangChain、RAG、LangGraph、MCP 到部署发布全流程。
 
 6、[Hermes Agent](https://github.com/NousResearch/hermes-agent) 是 Nous Research 开源的 AI Agent 框架： https://github.com/alchaincyf/hermes-agent-orange-book/blob/main/README_zh.md
+
+7、Hello Agent： https://github.com/datawhalechina/hello-agents
+> [!主要内容]
+> Hello-Agents 是 Datawhale 社区的系统性智能体学习教程。
+> 教程将带领你穿透框架表象，从智能体的核心原理出发，深入其核心架构，理解其经典范式，并最终亲手构建起属于自己的多智能体应用。
+
+
+## 方向
+
+### 1、如何给 AI Agent 搭建工作环境？
+
+
+### 2、如何基于原生 API 从零构建一个 自己的Agent？
